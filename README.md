@@ -13,3 +13,5 @@ The world map itself is made with Pygal.
 Population data is sorted and colored per population density.
 
 Hovering over each country tells you its population range and total population.
+
+<img src="" width="700">
