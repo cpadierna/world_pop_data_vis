@@ -14,4 +14,4 @@ Population data is sorted and colored per population density.
 
 Hovering over each country tells you its population range and total population.
 
-<img src="" width="700">
+<img src="https://github.com/cpadierna/world_pop_data_vis/blob/main/world_pop_gif.gif" width="700">
